@@ -12,7 +12,7 @@
     <body>
        <div>
         <h1>personas</h1>
-        
+        <h1>personas</h1>
         <table border="1">
             <thead>
                 <tr>
